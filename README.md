@@ -23,7 +23,7 @@ I am a Python developer focused on creating smart automation tools and Telegram 
 ---
 
 ### 📈 Currently Learning:
-* Advanced Python patternsю
+* Advanced Python patterns.
 * Scalable web scraping techniques.
 * Containerization with **Docker** for production deployment.
 

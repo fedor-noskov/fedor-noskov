@@ -1,33 +1,25 @@
-# Hi there, I'm Fedor! 👋
+# .NET Developer | C# Specialist 🚀
 
-### Python Developer | Automation & AI Integration Specialist
-
-I am a Python developer focused on creating smart automation tools and Telegram bots.
+Я специализируюсь на разработке производительных бэкенд-решений на платформе **.NET**. Мой основной фокус — построение надежной архитектуры, работа с данными и изучение внутреннего устройства среды выполнения.
 
 ---
 
-### 🛠 Tech Stack & Tools
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 🚀 Projects & Experience:
-* **[Whisper Transcriber Bot](https://github.com/fedor-noskov/Whisper_test):** A Telegram bot that converts audio to text using OpenAI's Whisper model.
-* **[Flat Rental Bot](https://github.com/fedor-noskov/Flat_Rental_Bot):** Portable smart home automation scripts designed for rental properties.
-* **Automation:** Experienced in building high-performance scrapers and data processing scripts.
+### 🛠 Стек технологий
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-### 📈 Currently Learning:
-* Advanced Python patterns.
-* Scalable web scraping techniques.
-* Containerization with **Docker** for production deployment.
+### 🧠 В фокусе изучения:
+* **CLR & Memory Management:** Разбираюсь в работе Garbage Collector, разнице между Value и Reference типами и оптимизации памяти.
+* **Architecture:** Практикую применение принципов **SOLID**, Dependency Injection и паттернов проектирования.
+* **Database Optimization:** Изучаю построение эффективных запросов через EF Core и проектирование реляционных баз данных.
+  
 
----
-
-### 📫 Reach me at:
-* **Email:** noskovfedorsvv@gmail.com
+### 📫 Связь со мной:
+* **Email:** [noskovfedorsvv@gmail.com](mailto:noskovfedorsvv@gmail.com)

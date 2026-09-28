@@ -1,10 +1,9 @@
 # .NET Developer | C# Specialist 🚀
 
-Я специализируюсь на разработке производительных бэкенд-решений на платформе **.NET**. Мой основной фокус — построение надежной архитектуры, работа с данными и изучение внутреннего устройства среды выполнения.
-
+I specialize in developing high-performance backend solutions on the **.NET** platform. My primary focus is building reliable architecture, working with data, and exploring the inner workings of the runtime.
 ---
 
-### 🛠 Стек технологий
+### 🛠:
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -15,11 +14,6 @@
 
 ---
 
-### 🧠 В фокусе изучения:
-* **CLR & Memory Management:** Разбираюсь в работе Garbage Collector, разнице между Value и Reference типами и оптимизации памяти.
-* **Architecture:** Практикую применение принципов **SOLID**, Dependency Injection и паттернов проектирования.
-* **Database Optimization:** Изучаю построение эффективных запросов через EF Core и проектирование реляционных баз данных.
-  
 
-### 📫 Связь со мной:
+### 📫:
 * **Email:** [noskovfedorsvv@gmail.com](mailto:noskovfedorsvv@gmail.com)
